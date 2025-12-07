@@ -1,4 +1,4 @@
-import { GoogleAuthProvider, signInWithRedirect, getRedirectResult, signInWithPopup } from 'firebase/auth'
+import { GoogleAuthProvider, signInWithPopup } from 'firebase/auth'
 import { auth } from '../firebase';
 // import { useAuthState } from 'react-firebase-hooks/auth'
 // import { useEffect } from 'react'
